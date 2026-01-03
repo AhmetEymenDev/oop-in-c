@@ -3,6 +3,10 @@
  * Inspired by C# discipline and C performance.
  * * This framework implements Classes, Inheritance, VTables, 
  * and Destructors in pure C.
+ *
+ * Copyright (c) 2026 Ahmet Eymen
+ * This file is part of OOC Framework.
+ * Licensed under the MIT License.
  */
 
 #ifndef OOC_H
