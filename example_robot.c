@@ -1,3 +1,10 @@
+/* * Copyright (c) 2026 Ahmet Eymen
+ * This file is part of OOC Framework.
+ * Licensed under the MIT License.
+ */
+
+
+
 #include "ooc.h"
 
 // --- BASE CLASS: Entity ---
