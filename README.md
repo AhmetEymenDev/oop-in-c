@@ -1,3 +1,5 @@
+Developed By Ahmet Eymen
+
 🚀 C-Style OOP Framework (The Manifesto)
 What is this?
 This is a lightweight, macro-based Object-Oriented Programming (OOC) framework written in pure C. It bridges the gap between C# discipline and C performance. It implements core OOP concepts like Classes, Methods, Constructors, VTables, and Inheritance without the hidden overhead of C++.
